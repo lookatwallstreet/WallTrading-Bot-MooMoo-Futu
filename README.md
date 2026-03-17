@@ -56,7 +56,7 @@ python TradingBOT.py
 ### Important Notes: 
 
 - Don't share any API key, secret key, or password.
-- Any questions, please contact: `Discord/Wechat ID: squawkwallstreet`.
+- Any questions, please contact: `Discord/Wechat ID: lookatwallstreet`.
 - MooMoo Official API Docs: https://openapi.moomoo.com/moomoo-api-doc/en/intro/intro.html
 
 <br>
@@ -125,12 +125,12 @@ Feel free to use the link below to get a MooMoo account, 0 fees for most trading
 https://j.moomoo.com/011Pu5
 
 ##### Discord Server for program trading:
-https://discord.gg/9uUpjyyqkZ
+https://www.lookatwallstreet.com/
 
 ##### Discord Server for tradingBOT, SOXL, TQQQ, BTC:
-https://www.patreon.com/LookAtWallStreet
+https://www.lookatwallstreet.com/
 
-or, just add me on Discord. My Discord ID: squawkwallstreet
+or, just add me on Discord. My Discord ID: lookatwallstreet
 
 ##### Using Webull?
 Please feel free to check my Webull Bot Repo: https://github.com/LukeWang01/Program-Trading-Based-on-Webull
