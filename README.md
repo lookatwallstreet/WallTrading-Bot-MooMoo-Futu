@@ -18,7 +18,8 @@
 
 <br>
 
-- Our official website: https://discord.gg/9uUpjyyqkZ
+- Our official website: https://www.lookatwallstreet.com/
+- Nexus Quant: https://nexusquant.co/
 - Questions & Support Discord: https://discord.gg/9uUpjyyqkZ
 
 <br>
